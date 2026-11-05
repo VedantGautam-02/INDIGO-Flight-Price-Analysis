@@ -68,6 +68,14 @@ The project addresses the following analytical questions:
 
 8. **Specific Route Analysis:** Vistara Business Class flights from Delhi to Hyderabad have an average ticket price of ₹47,939.84.
 
+## Power BI Dashboard
+
+The interactive Power BI dashboard brings together key findings through KPI cards, pricing comparisons, flight distributions, and interactive slicers.
+
+![INDIGO Flight Price Analysis Dashboard](Airlines%20flights%20analysis/dashboard_screenshot.png)
+
+**Power BI Report:** [Download/View PBIX File](Airlines%20flights%20analysis/Indigo_Flights_Analysis.pbix)
+
 ## Project Structure
 
 ```text
